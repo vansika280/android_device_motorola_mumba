@@ -4,9 +4,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aospa_mumba.mk
+    $(LOCAL_DIR)/penguin_mumba.mk
 
 COMMON_LUNCH_CHOICES := \
-    aospa_mumba-user \
-    aospa_mumba-userdebug \
-    aospa_mumba-eng
+    penguin_mumba-user \
+    penguin_mumba-userdebug \
+    penguin_mumba-eng
